@@ -22,3 +22,11 @@ Git add com o nome do arquivo ou add para atualizar os arquivos que esta pendent
     (Verificar sempre os arquivos em vermelho para atualizar)
 
 
+\\ Criar versões do codigo com Commit
+git commit -m "Inicial" 
+
+Commit sempre usar para quando for add uma veesão nova do projeto 
+  (Manter sempre atualizado o commit pra facilitar o projeto)
+
+
+ 
