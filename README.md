@@ -74,6 +74,15 @@ Usar caso tiver mais de uma versão no projeto
 
    ! Usando Branch ao projeto !
 
-Branch são caminhos diferente que serão usado ao longo do projeto 
+Branch são diretorios diferente para add em repositorio 
+
+\\ localizar as Branch no projeto 
+git branch
 
 
+\\ Add uma nova Branch
+git branch nome_da_branch "staging"
+
+
+\\ Colocar a Branch como principal
+git checkout nome_da_branch
