@@ -65,7 +65,7 @@ Verificar os historico e as versões atualizadas
  (Sempre usar para verificar qual versões estao sendo utilizada)
 
 \\ Voltar a versão 
-git reset --hard id:da versão
+git reset --hard id:
 
 Usar caso tiver mais de uma versão no projeto
  (Comant da pra usar pra volta para a nova ou antiga versão)
