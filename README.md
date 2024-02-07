@@ -44,11 +44,30 @@ Add link para sincronizar os arquivos do Pc para o GitHub
   (Link do navegador dentro do seu repositorio para add)
 
 
-
 \\ Subir arquivos para o GitHub
 git push
 
+Comando para subir os arquivos direto para o repositorio GitHub
+ (Caso der erro usar o comando abaxio para confirmar a conta)
 
 
-\\
-git push --set-upstream origin master 
+\\ Enviar arquivo para a master 
+git push --set-upstream origin master
+
+Add projeto direto para o repositorio GitHub
+ (Na primeira vez vai solicitar a confirmação de conta)
+
+
+\\ Verificando o historico
+git reflog
+
+Verificar os historico e as versões atualizadas
+ (Sempre usar para verificar qual versões estao sendo utilizada)
+
+\\ Voltar a versão 
+git reset --hard id:da versão
+
+Usar caso tiver mais de uma versão no projeto
+ (Comant da pra usar pra volta para a nova ou antiga versão)
+
+
