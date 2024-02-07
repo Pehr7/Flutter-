@@ -1,4 +1,4 @@
-! Add projeto Git Bash para o GitHub !
+   ! Add projeto Git Bash para o GitHub !
 
 
 \\ Iniciar o git bash em uma pasta
@@ -69,5 +69,11 @@ git reset --hard id:da versão
 
 Usar caso tiver mais de uma versão no projeto
  (Comant da pra usar pra volta para a nova ou antiga versão)
+
+
+
+   ! Usando Branch ao projeto !
+
+Branch são caminhos diferente que serão usado ao longo do projeto 
 
 
