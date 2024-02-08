@@ -90,3 +90,4 @@ git checkout nome_da_branch
 
 \\ Exluir uma Branch
 git push origin --delete nome-da-branch
+
