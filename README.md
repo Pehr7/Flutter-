@@ -16,7 +16,7 @@ O git status mostra quais pastas esta atualizada e quais precisa atualizar.
 
 
 \\ Adicionando um arquivo 
-git add "Nome_do_arquivo"
+git add "Nome_do_arquivo"  
 
 Git add com o nome do arquivo ou add para atualizar os arquivos que esta pendentes.
     (Verificar sempre os arquivos em vermelho para atualizar)
