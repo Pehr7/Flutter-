@@ -6,7 +6,7 @@ git init
 
 Depois de iniciar na pasta pode mover ou criar um cod na pasta ref.
      (Sempre usar esse comando antes de enviar os arquivos)
-
+  
 
 \\ Verificar se a pasta esta atualizada 
 git status 
