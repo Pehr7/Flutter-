@@ -12,7 +12,7 @@ Depois de iniciar na pasta pode mover ou criar um cod na pasta ref.
 git status 
 
 O git status mostra quais pastas esta atualizada e quais precisa atualizar.
-    (Sempre verficar se esta atualizado ou se tem algum arquivo pedente)
+    (Sempre verficar se esta atualizado ou se tem algum arquivo pendente)
 
 
 \\ Adicionando um arquivo 
